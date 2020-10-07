@@ -7,7 +7,7 @@ Fizemos um pequeno esboço de como vai ser o nosso projeto,inicialmente ele vai 
 |Nome do campo|tipo|Descrição|
 |-------------|----|---------|
 nome_do_cliente|cadeia de caracteres|nome da pessoa ou usuário|
-cpf|cadeia de caracteres|o usuário deve digitar o seu CPF para poder analisar o seu CPF|
+cpf|cadeia de caracteres|o usuário deve digitar o seu CPF para poder analisar|
 preferencia_do_imovel|inteiro|vão estar umas 5 ou 10 opções,na qual o usuário pode digitar um numero para escolher a opção|
 localizacao|cadeia de caracteres|o usuário vai digitar em qual  rua ele gostaria de hospedar|
 situacaointeiro|armazenar a situação do AP (livre ou alugado)|
