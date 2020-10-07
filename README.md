@@ -10,7 +10,7 @@ Fizemos um pequeno esboço de como vai ser o nosso projeto,inicialmente ele vai 
 |cpf|cadeia de caracteres|o usuário deve digitar o seu CPF para poder  ser analisado|
 |preferencia_do_imovel|inteiro|terá 5 opções enumereradas para o usuário escolher uma (casa, apartamento, sítio, chacara, fazenda)|
 |localizacao|cadeia de caracteres|o usuário vai digitar em qual  rua ele gostaria de hospedar|
-|situacao|inteiro|armazenar a situação do AP (livre ou alugado)
+|situacao|cadeia de caracteres|o programa vai informar ao usuário se o imóvel está livre ou alugado|
 |valor_do_imovel |real|informar ao usuário o preço do aluguel|
 |iptu|real|informar o valor do IPTU|
 |gosto_do_cliente|cadeia de caracteres|perguntar ao cliente se ele gostou do imóvel e o preço caso ele não gostar,podemos oferecer novas opções|
